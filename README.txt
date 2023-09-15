@@ -1,0 +1,4 @@
+En esta carpeta hay 6 archivos de python para el parcial, hay 3 modelos de clasificación los cuales son DNTREE, KNN Y RL. Adicionalmente, hay un archivo de preprocesamiento de datos donde se realizan algunas opereaciones para procesar el dataset y éste ya está guardado y almacenado en la carpeta "Fuentes de datos", llamado "Titanic Procesado". Finalmente, hay un ejemplo corto de cómo utilizar pyspark para procesar datos y un archivo de diccionario donde estarán las rutas de los archivos necesarios. 
+Lo último es que el archivo llamado ejemploPySpark.py se debe ejecutar teniendo todas las variables de entorno configuradas y por separado de los demás archivos, al igual que el de preprocesamientoDatos.py.
+
+Nota: Todos los resultados de las ejecuciones están en la carpeta Resultados
